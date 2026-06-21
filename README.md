@@ -64,6 +64,7 @@ This repository helps me:
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Prefix Sum
 |  |
@@ -73,4 +74,16 @@ This repository helps me:
 |  |
 | ------- |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
