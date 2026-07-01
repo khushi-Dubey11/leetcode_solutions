@@ -67,6 +67,7 @@ This repository helps me:
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Prefix Sum
@@ -95,4 +96,24 @@ This repository helps me:
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
