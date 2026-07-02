@@ -69,6 +69,7 @@ This repository helps me:
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Prefix Sum
 |  |
@@ -104,6 +105,7 @@ This repository helps me:
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -112,8 +114,18 @@ This repository helps me:
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
