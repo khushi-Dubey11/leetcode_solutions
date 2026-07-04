@@ -1,31 +1,36 @@
 class Solution {
 public:
-    int ans = INT_MAX;
+    vector<int> parent;
 
-    void dfs(int node, vector<vector<pair<int,int>>>& adj, vector<int>& vis) {
-        vis[node] = 1;
+    int find(int x) {
+        if (parent[x] == x)
+            return x;
+        return parent[x] = find(parent[x]);
+    }
 
-        for (auto &it : adj[node]) {
-            int next = it.first;
-            int dist = it.second;
-
-            ans = min(ans, dist);
-
-            if (!vis[next])
-                dfs(next, adj, vis);
-        }
+    void unite(int a, int b) {
+        a = find(a);
+        b = find(b);
+        if (a != b)
+            parent[b] = a;
     }
 
     int minScore(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<int,int>>> adj(n + 1);
+        parent.resize(n + 1);
+
+        for (int i = 1; i <= n; i++)
+            parent[i] = i;
+
+        for (auto &r : roads)
+            unite(r[0], r[1]);
+
+        int root = find(1);
+        int ans = INT_MAX;
 
         for (auto &r : roads) {
-            adj[r[0]].push_back({r[1], r[2]});
-            adj[r[1]].push_back({r[0], r[2]});
+            if (find(r[0]) == root)
+                ans = min(ans, r[2]);
         }
-
-        vector<int> vis(n + 1, 0);
-        dfs(1, adj, vis);
 
         return ans;
     }
