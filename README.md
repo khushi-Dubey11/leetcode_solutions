@@ -58,6 +58,7 @@ This repository helps me:
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -78,6 +79,7 @@ This repository helps me:
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
@@ -154,6 +156,7 @@ This repository helps me:
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -164,4 +167,8 @@ This repository helps me:
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
