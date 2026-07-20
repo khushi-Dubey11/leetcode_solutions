@@ -202,4 +202,12 @@ This repository helps me:
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1673-find-the-most-competitive-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
