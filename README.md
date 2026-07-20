@@ -77,6 +77,7 @@ This repository helps me:
 | [1288-remove-covered-intervals](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1732-find-the-highest-altitude](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -100,6 +101,7 @@ This repository helps me:
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -194,8 +196,10 @@ This repository helps me:
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
