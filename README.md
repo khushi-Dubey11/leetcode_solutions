@@ -53,6 +53,7 @@ This repository helps me:
 | [0013-roman-to-integer](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ This repository helps me:
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -76,6 +78,7 @@ This repository helps me:
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -134,6 +137,7 @@ This repository helps me:
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,4 +253,8 @@ This repository helps me:
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
