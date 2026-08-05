@@ -166,6 +166,7 @@ This repository helps me:
 | [2685-count-the-number-of-complete-components](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -192,6 +193,7 @@ This repository helps me:
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -217,6 +219,7 @@ This repository helps me:
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Number Theory
 |  |
 | ------- |
