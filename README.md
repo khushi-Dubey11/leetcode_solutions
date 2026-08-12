@@ -53,6 +53,7 @@ This repository helps me:
 | [0013-roman-to-integer](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -101,6 +102,7 @@ This repository helps me:
 | [1732-find-the-highest-altitude](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -152,6 +154,7 @@ This repository helps me:
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
