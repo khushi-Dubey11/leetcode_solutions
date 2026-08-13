@@ -82,6 +82,7 @@ This repository helps me:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -101,6 +102,7 @@ This repository helps me:
 | [1673-find-the-most-competitive-subsequence](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1732-find-the-highest-altitude](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -260,6 +262,7 @@ This repository helps me:
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
 |  |
@@ -291,4 +294,8 @@ This repository helps me:
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
