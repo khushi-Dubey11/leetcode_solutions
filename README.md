@@ -65,6 +65,7 @@ This repository helps me:
 | [0877-stone-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -99,6 +100,7 @@ This repository helps me:
 | [1331-rank-transform-of-an-array](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1732-find-the-highest-altitude](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -214,6 +216,7 @@ This repository helps me:
 | [0877-stone-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -288,6 +291,7 @@ This repository helps me:
 | [0486-predict-the-winner](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
