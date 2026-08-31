@@ -278,6 +278,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
