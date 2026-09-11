@@ -54,6 +54,7 @@ This repository helps me:
 | [1331-rank-transform-of-an-array](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -125,6 +126,7 @@ This repository helps me:
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -297,6 +299,7 @@ This repository helps me:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -313,6 +316,7 @@ This repository helps me:
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Combinatorics
 |  |
