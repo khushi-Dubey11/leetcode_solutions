@@ -104,6 +104,7 @@ This repository helps me:
 | ------- |
 | [0486-predict-the-winner](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -223,6 +224,7 @@ This repository helps me:
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
