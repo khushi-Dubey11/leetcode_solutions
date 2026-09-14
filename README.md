@@ -64,6 +64,7 @@ This repository helps me:
 | [0013-roman-to-integer](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -352,4 +353,8 @@ This repository helps me:
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
