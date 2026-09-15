@@ -95,6 +95,7 @@ This repository helps me:
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -166,6 +167,7 @@ This repository helps me:
 | [1833-maximum-ice-cream-bars](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@ This repository helps me:
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
@@ -279,6 +282,7 @@ This repository helps me:
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
