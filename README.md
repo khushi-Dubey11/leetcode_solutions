@@ -69,6 +69,7 @@ This repository helps me:
 | [1344-angle-between-hands-of-a-clock](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -144,6 +145,7 @@ This repository helps me:
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -256,6 +258,7 @@ This repository helps me:
 | [1301-number-of-paths-with-max-score](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -332,6 +335,7 @@ This repository helps me:
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
