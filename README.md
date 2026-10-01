@@ -97,6 +97,7 @@ This repository helps me:
 | ------- |
 | [0006-zigzag-conversion](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -327,6 +328,7 @@ This repository helps me:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -408,6 +410,7 @@ This repository helps me:
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
