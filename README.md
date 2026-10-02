@@ -98,6 +98,7 @@ This repository helps me:
 | [0006-zigzag-conversion](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -280,6 +281,7 @@ This repository helps me:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0877-stone-game) |
@@ -406,11 +408,13 @@ This repository helps me:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
