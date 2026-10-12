@@ -1,0 +1,34 @@
+class Solution {
+public:
+    int maxSum(vector<int>& nums, int k) {
+        const int MOD = 1e9 + 7;
+        vector<int> bits(32, 0);
+
+        // Count set bits at each position
+        for (int num : nums) {
+            for (int i = 0; i < 32; i++) {
+                if (num & (1 << i)) {
+                    bits[i]++;
+                }
+            }
+        }
+
+        long long ans = 0;
+
+        // Construct k numbers with maximum possible values
+        for (int i = 0; i < k; i++) {
+            long long num = 0;
+
+            for (int j = 0; j < 32; j++) {
+                if (bits[j] > 0) {
+                    num |= (1LL << j);
+                    bits[j]--;
+                }
+            }
+
+            ans = (ans + num * num) % MOD;
+        }
+
+        return ans;
+    }
+};
