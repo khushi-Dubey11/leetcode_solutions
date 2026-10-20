@@ -93,6 +93,7 @@ This repository helps me:
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ This repository helps me:
 | [3731-find-missing-elements](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -226,6 +228,7 @@ This repository helps me:
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -398,6 +401,7 @@ This repository helps me:
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
