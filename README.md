@@ -175,6 +175,7 @@ This repository helps me:
 | [3875-construct-uniform-parity-array-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
