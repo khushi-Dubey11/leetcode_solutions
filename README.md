@@ -132,6 +132,7 @@ This repository helps me:
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -263,6 +264,7 @@ This repository helps me:
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -272,6 +274,7 @@ This repository helps me:
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -287,6 +290,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -334,6 +338,7 @@ This repository helps me:
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
