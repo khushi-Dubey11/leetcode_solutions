@@ -92,6 +92,7 @@ This repository helps me:
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -221,6 +222,7 @@ This repository helps me:
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
