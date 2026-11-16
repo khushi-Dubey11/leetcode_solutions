@@ -119,6 +119,7 @@ This repository helps me:
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -378,6 +379,7 @@ This repository helps me:
 | ------- |
 | [1260-shift-2d-grid](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
