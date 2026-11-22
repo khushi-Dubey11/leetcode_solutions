@@ -118,6 +118,7 @@ This repository helps me:
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushi-Dubey11/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
